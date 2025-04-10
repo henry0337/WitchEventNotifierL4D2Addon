@@ -1,0 +1,19 @@
+"AddonInfo"
+{
+	addonversion		"1.0"				
+	addontitle			"[VScript] Witch Killed Notifier (EN)"	
+	addonauthor			"Quốc Hưng"	
+	addonDescription	"Allow you to see the statistic after someone dealed with the Witch (crowned, killed). Working in your local server only."
+	
+	addonContent_Campaign		0
+	addonContent_Map			0
+	addonContent_Skin			0
+	addonContent_weapon			0
+	addonContent_BossInfected	0
+	addonContent_CommonInfected	0
+	addonContent_Survivor		0
+	addonContent_Sound			0
+	addonContent_Music			0
+	addonContent_Script			1
+	addonContent_prop			0
+}
