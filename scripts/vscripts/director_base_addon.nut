@@ -1,1 +1,1 @@
-IncludeScript("witch_crown");
+IncludeScript("witch_script");
